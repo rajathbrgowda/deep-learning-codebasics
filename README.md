@@ -1,2 +1,2 @@
 # deep-learning-codebasics
-The repo consist of all my work on understanding deep learning
+This repo consist of all my work on understanding deep learning
